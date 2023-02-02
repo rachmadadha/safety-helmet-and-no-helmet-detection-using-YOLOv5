@@ -8,7 +8,7 @@ if you want to use it, please understand that the dataset I use comes from the i
 To improve accuracy, you need to add more data objects to each class to train to produce a better model.
 
 if you want to detect object using file while running main.py
-use or change it with following command in main.py files:
+use or change it with following command in main.py using your .mp4 files:
 cap=cv2.VideoCapture("helmet.mp4")
 
 if you want to detect object using facecam or realtime while running main.py 
