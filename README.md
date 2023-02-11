@@ -1,4 +1,4 @@
-# safety-helmet-and-no-helmet-detection-using-YOLOv5
+# safety helmet and no helmet detection YOLOv5
 this is my first project to study AI and try to detect safety helmets
 
 ![work2](https://user-images.githubusercontent.com/78607405/216264445-285e80de-393e-4767-9ea0-b871b5d2f731.jpg)
